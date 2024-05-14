@@ -1,0 +1,16 @@
+.dw{
+    font-size: 70px;
+    background-color: rgb(124, 124, 240);
+    padding: 20px;
+    border-radius: 20px;
+}
+.gws{
+    width: 120% ;
+    height: 30%;
+    text-align:center ;
+
+}
+.cnt{
+    width: 65%;
+    height: 70%;
+}
